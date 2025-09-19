@@ -1,0 +1,14 @@
+C:\Users\ET73\Downloads\projetos-c#\Path8\bin\Debug\net8.0\Path8.exe
+C:\Users\ET73\Downloads\projetos-c#\Path8\bin\Debug\net8.0\Path8.deps.json
+C:\Users\ET73\Downloads\projetos-c#\Path8\bin\Debug\net8.0\Path8.runtimeconfig.json
+C:\Users\ET73\Downloads\projetos-c#\Path8\bin\Debug\net8.0\Path8.dll
+C:\Users\ET73\Downloads\projetos-c#\Path8\bin\Debug\net8.0\Path8.pdb
+C:\Users\ET73\Downloads\projetos-c#\Path8\obj\Debug\net8.0\Path8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ET73\Downloads\projetos-c#\Path8\obj\Debug\net8.0\Path8.AssemblyInfoInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\Path8\obj\Debug\net8.0\Path8.AssemblyInfo.cs
+C:\Users\ET73\Downloads\projetos-c#\Path8\obj\Debug\net8.0\Path8.csproj.CoreCompileInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\Path8\obj\Debug\net8.0\Path8.dll
+C:\Users\ET73\Downloads\projetos-c#\Path8\obj\Debug\net8.0\refint\Path8.dll
+C:\Users\ET73\Downloads\projetos-c#\Path8\obj\Debug\net8.0\Path8.pdb
+C:\Users\ET73\Downloads\projetos-c#\Path8\obj\Debug\net8.0\Path8.genruntimeconfig.cache
+C:\Users\ET73\Downloads\projetos-c#\Path8\obj\Debug\net8.0\ref\Path8.dll
